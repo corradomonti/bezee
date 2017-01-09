@@ -7,7 +7,7 @@ and play them, like keys on a scale!
 ![Screenshot](screenshot.png)
 
 You will find ready-made, stand-alone Mac, Linux and Windows app in the [Release
-section](releases/).
+section](../../releases/).
 
 If you instead wish to build it from source, you will need:
 
@@ -17,6 +17,6 @@ If you instead wish to build it from source, you will need:
 
 Examples
 --------
-
+op
 You can find some examples i made in Bezee in the directory `examples`. To read
 these files, open Bezee and press "o" to open a file.
