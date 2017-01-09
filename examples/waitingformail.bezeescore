@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created in Bezee by Corrado Monti - http://www.corradomonti.com</comment>
+<entry key="BPM">146.0</entry>
+<entry key="NOTES PER BAR">8 notes</entry>
+<entry key="SCALA">Maggiore </entry>
+<entry key="Boxes"/>
+<entry key="PHASE">0.9071429</entry>
+<entry key="Play within boxes">false</entry>
+<entry key="CURVES PER BAR">8 curves</entry>
+<entry key="BASE NOTE">C </entry>
+<entry key="Curves">112.0,181.06895 : 110.0,291.06897
+385.0,441.069 : 184.0,509.069
+109.0,444.069 : 250.0,475.069
+114.0,71.06894 : 112.0,181.06895
+394.0,310.069 : 436.0,461.069
+337.0,544.069 : 171.0,401.069
+114.0,71.06894 : 112.0,181.06895
+376.0,442.069 : 335.0,565.0689
+478.0,381.069 : 339.0,227.06895
+114.0,71.06894 : 112.0,181.06895
+436.0,269.06897 : 363.0,189.06895
+270.0,193.06895 : 489.0,407.069
+114.0,71.06894 : 112.0,181.06895
+374.0,29.0 : 368.0,95.0
+114.0,71.06894 : 112.0,181.06895
+490.0,440.0 : 343.0,433.0
+275.0,486.0 : 487.0,677.0
+</entry>
+</properties>

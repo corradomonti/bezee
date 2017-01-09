@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created in Bezee by Corrado Monti - http://www.corradomonti.com</comment>
+<entry key="PHASE">0.21428572</entry>
+<entry key="BASE NOTE">C </entry>
+<entry key="SCALA">Minore </entry>
+<entry key="NOTES PER BAR">8 notes</entry>
+<entry key="CURVES PER BAR">6 curves</entry>
+<entry key="BPM">126.0</entry>
+<entry key="Curves">86.0,142.0 : 65.0,449.0
+217.0,450.0 : 425.0,441.0
+226.0,419.0 : 197.0,392.0
+280.0,235.0 : 375.0,398.0
+536.0,337.0 : 76.0,372.0
+273.0,-29.0 : 365.0,425.0
+107.0,-165.0 : 86.0,142.0
+</entry>
+<entry key="Boxes"/>
+</properties>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Created in Bezee by Corrado Monti - http://www.corradomonti.com</comment>
+<entry key="PHASE">0.0</entry>
+<entry key="BASE NOTE">F </entry>
+<entry key="SCALA">Phrygian </entry>
+<entry key="NOTES PER BAR">16 notes</entry>
+<entry key="CURVES PER BAR">4 curves</entry>
+<entry key="BPM">110.0</entry>
+<entry key="Curves">62.0,447.17242 : 276.0,448.17242
+179.0,425.1724 : 179.0,313.1723
+327.0,446.17242 : 454.0,444.17242
+401.0,122.17244 : 277.0,302.17233
+223.0,133.17242 : 342.0,164.0
+-152.0,446.17242 : 62.0,447.17242
+423.0,144.17242 : 471.0,151.0
+225.0,444.17242 : 149.0,182.1724
+-152.0,446.17242 : 62.0,447.17242
+</entry>
+<entry key="Boxes">255.0,275.1723 : 347.0,322.1723
+445.0,178.1724 : 494.0,236.17232
+450.0,327.17233 : 561.0,416.1724
+353.0,224.17233 : 393.0,254.17235
+140.0,283.1723 : 208.0,344.17233
+263.0,157.17241 : 304.0,207.17238
+339.0,242.0 : 383.0,291.0
+</entry>
+</properties>
